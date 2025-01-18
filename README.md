@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **JavaSpring and MERN Stack projects**
 
-- 📫 How to reach me **jpcicolo@gmail.com**
+<div>
+<a href = "mailto:jpcicolo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Keymiuz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 - ⚡ Fun fact **Octopuses have three hearts, and two of them stop beating when they swim.**
 
