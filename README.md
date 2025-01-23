@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pedro Silva Cabral Cicolo</h1>
 <h3 align="center">A passionate Fullstack Developer from Brazil</h3>
-- 🌱 I’m currently learning **JavaSpring and MERN Stack projects
+- 🌱 I’m currently learning JavaSpring and MERN Stack projects
 <div>
 <a href = "mailto:jpcicolo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Keymius" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
