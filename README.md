@@ -64,7 +64,6 @@
 
 <br clear="both">
 
-### 🐍 **Animação da Snake**
 <img src="https://raw.githubusercontent.com/Keymiuz/Keymiuz/output/snake.svg" alt="Snake animation" />
 
 ###
