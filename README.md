@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm João Pedro Silva Cabral Cicolo<br>A passionate Fullstack Developer from Brazil<br>🌱 Currently learning Java Spring</h2>
+<h2 align="center">Hi 👋, I'm João Pedro Silva Cabral Cicolo<br>A passionate Fullstack Developer from Brazil<br>Currently learning Java Spring</h2>
 
 ###
 
