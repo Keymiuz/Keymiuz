@@ -52,19 +52,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chatgpt.svg" height="30" alt="ChatGPT logo" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="30" alt="Google Gemini logo" />
   <img width="12" />
 </div>
 
 ###
-<div align="center" class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📫 Formas de Contato</h2><a id="user-content--contact" class="anchor" aria-label="Permalink: 📫 Contact" href="#-contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<div align="center" class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">📫 Formas de Contato</h2>
+  <a id="user-content--contact" class="anchor" aria-label="Permalink: 📫 Contact" href="#-contact">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg>
+  </a>
   <a href="https://jpcicolo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/keymius/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/5511976468942" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
