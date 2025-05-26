@@ -56,7 +56,7 @@
 </div>
 
 ###
-
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📫 Formas de Contato</h2><a id="user-content--contact" class="anchor" aria-label="Permalink: 📫 Contact" href="#-contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <div align="center">
   <a href="https://jpcicolo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
