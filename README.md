@@ -52,7 +52,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-   https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/chatgpt.svg" height="30" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="30" alt="Google Gemini logo" />
+  <img width="12" />
 </div>
 
 ###
