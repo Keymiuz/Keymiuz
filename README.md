@@ -15,7 +15,7 @@
 </div>
 
 ###
-<div align="center" class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">☰ Stacks/Coisas que eu uso e sou bom!</h2><a id="user-content--stacks" class="anchor" aria-label="Permalink: ☰ Stacks" href="#-stacks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Stacks/Coisas que eu uso e sou bom!</h2><a id="user-content--stacks" class="anchor" aria-label="Permalink: ☰ Stacks" href="#-stacks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
