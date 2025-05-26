@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm João Pedro Silva Cabral Cicolo<br>A passionate Fullstack Developer from Brazil<br>Currently learning Java Spring</h2>
 
 ###
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keymiuz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
