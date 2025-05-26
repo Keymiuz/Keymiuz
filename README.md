@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-<h2 align="center">Olá 👋, sou João Pedro Silva Cabral Cicolo<br>Um Desenvolvedor Fullstack apaixonado do Brasil<br>Atualmente aprendendo Java Spring</h2>
+<h2 align="center">Olá 👋, sou João Pedro Silva Cabral Cicolo<br>Um Desenvolvedor mirando no Fullstack e apaixonado pelo Brasil<br>Atualmente aprendendo Java Spring e todo o ecossistema deste framework!</h2>
 
 ###
 
