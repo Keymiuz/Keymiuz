@@ -13,7 +13,7 @@
 
 ---
 
-### 💻 Linguagens de Programação Que Já Mexi
+<h3 align="center">💻 Linguagens de Programação Que Já Mexi</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="JavaScript" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 Frameworks & Bibliotecas (Frontend & Backend)
+<h3 align="center">🚀 Frameworks & Bibliotecas (Frontend & Backend)</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React" />
@@ -67,7 +67,7 @@
 
 ---
 
-### ⚡ Bancos de Dados & ORMs
+<h3 align="center">⚡ Bancos de Dados & ORMs</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB" />
@@ -85,7 +85,7 @@
 
 ---
 
-### ☁ Cloud & DevOps
+<h3 align="center">☁ Cloud & DevOps</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="30" alt="Hostinger" />
@@ -101,7 +101,7 @@
 
 ---
 
-### 🤖 Inteligência Artificial & Ciência de Dados
+<h3 align="center">🤖 Inteligência Artificial & Ciência de Dados</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="ChatGPT" />
@@ -119,20 +119,22 @@
 
 ---
 
-### 🛠️ Ferramentas & Outras que uso para Edição de Código
+<h3 align="center">🛠️ Ferramentas & Outras que uso para Edição de Código</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="30" alt="IntelliJ IDEA" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="30" alt="PyCharm" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)" height="30" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" alt="VSCode" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="30" alt="Yarn" />
 </div>
 
 ---
 
-### 📫 Formas de Contato
+<h3 align="center">📫 Formas de Contato</h3>
+
 
 <div align="center">
   <a href="https://jpcicolo@gmail.com" target="_blank">
