@@ -1,7 +1,9 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-![leetcode](https://leetcode.com/u/Keymius/)
+<a href="https://leetcode.com/u/Keymius/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode Badge"/>
+</a>
 
 <h2 align="center">Olá 👋, sou João Pedro Silva Cabral Cicolo<br>Um Desenvolvedor mirando no Fullstack e apaixonado pelo Brasil<br>Atualmente aprendendo Java Spring e todo o ecossistema deste framework!</h2>
 
