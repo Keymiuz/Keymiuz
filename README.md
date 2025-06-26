@@ -131,16 +131,23 @@
 
 ---
 
-<h3 align="center">📫 Formas de Contato</h3>
+<h3 align="center">📫 Formas de Contato/Perfils Online</h3>
 
+<h3 align="center">🔗 Perfis Online</h3>
 
 <div align="center">
-  <a href="https://jpcicolo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <a href="https://leetcode.com/u/Keymius/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode Badge"/>
   </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/keymius/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
+  <img width="12" />
+  <a href="mailto:jpcicolo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <img width="12" />
   <a href="https://wa.me/5511976468942" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
