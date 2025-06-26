@@ -129,9 +129,7 @@
 
 ---
 
-<h3 align="center">📫 Formas de Contato/Perfils Online</h3>
-
-<h3 align="center">🔗 Perfis Online</h3>
+<h3 align="center">📫 🔗Formas de Contato/Perfils Online</h3>
 
 <div align="center">
   <a href="https://leetcode.com/u/Keymius/" target="_blank">
