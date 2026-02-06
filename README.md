@@ -38,6 +38,8 @@ interests:
   - Data Science
 philosophy: "Code with passion, learn with purpose"
 </div>
+````
+
 🛠️ Tech Arsenal
 <div align="center">
 Programming Languages
