@@ -125,7 +125,7 @@ philosophy: "Code with passion, learn with purpose"
 <td width="50%">
 
 ### 🔍 Fraud Detection with Invoice Tracking
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keymiuz&repo=fraud-detection&theme=radical&border_color=DC143C&title_color=DC143C&icon_color=DC143C)](https://github.com/Keymiuz)
+[(https://github-readme-stats.vercel.app/api/pin/?username=Keymiuz&repo=fraud-detection&theme=radical&border_color=DC143C&title_color=DC143C&icon_color=DC143C)](https://github.com/Keymiuz)
 
 **Published Paper & Conference Presentation**  
 Academic project comparing unsupervised learning methods for fraud detection, achieving **45% higher accuracy** in anomaly detection compared to conventional methods.
