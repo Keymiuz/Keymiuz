@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/_8mT--9gfRcAAAAd/league-of-legends-aatrox.gif" width="420" />
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=280&section=header&text=João%20Pedro%20Cicolo&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Spring%20Enthusiast%20%7C%20Brazil%20🇧🇷&descAlignY=55" />
 
 <br>
+
+<img src="https://media1.tenor.com/m/_8mT--9gfRcAAAAd/league-of-legends-aatrox.gif" width="420" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+%7C+React+%7C+Python;Clean+Code+Above+All;Always+Learning" />
 
@@ -76,11 +76,14 @@ Pandas · NumPy · PyTorch · TensorFlow
 
 Sistema para rastreamento e organização de notas fiscais, com foco em automação, clareza de dados e backend robusto.
 
-**Tech Stack**  
-Java · Spring Boot · PostgreSQL
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge" />
 
-🔗 **Repository**  
-https://github.com/Keymiuz/Rastreador-de-NF
+<br><br>
+
+<a href="https://github.com/Keymiuz/Rastreador-de-NF">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
@@ -88,11 +91,14 @@ https://github.com/Keymiuz/Rastreador-de-NF
 
 Aplicação de transcrição automática de áudio, vídeo e imagens usando Inteligência Artificial.
 
-**Tech Stack**  
-React · Next.js · TypeScript · Tailwind · AssemblyAI · Gemini API
+<img src="https://img.shields.io/badge/React-Next.js-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Transcription-red?style=for-the-badge" />
 
-🔗 **Repository**  
-https://github.com/Keymiuz/wordpressa
+<br><br>
+
+<a href="https://github.com/Keymiuz/wordpressa">
+  <img src="https://img.shields.io/badge/Repository-View%20on%20GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -102,13 +108,15 @@ https://github.com/Keymiuz/wordpressa
 
 <div align="center">
 
-🎓 **Oracle Certified Professional**  
-🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=593A1794D326481A63254C5BA6D8B6A6227DF1C63A9DD5BD7BBB15B6F2C9EC33#
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=593A1794D326481A63254C5BA6D8B6A6227DF1C63A9DD5BD7BBB15B6F2C9EC33#">
+  <img src="https://img.shields.io/badge/Oracle-Certified%20Professional-red?style=for-the-badge&logo=oracle" />
+</a>
 
-<br>
+<br><br>
 
-📘 **Mastering Data Structures & Algorithms using C and C++**  
-🔗 https://udemy-certificate.s3.amazonaws.com/pdf/UC-838019c4-2833-4b58-b4a9-d6931c602b92.pdf
+<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-838019c4-2833-4b58-b4a9-d6931c602b92.pdf">
+  <img src="https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge&logo=udemy" />
+</a>
 
 </div>
 
@@ -132,14 +140,13 @@ https://github.com/Keymiuz/wordpressa
 
 <div align="center">
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/keymius/
+<a href="https://www.linkedin.com/in/keymius/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-🔗 LeetCode  
-https://leetcode.com/u/Keymius/
-
-📧 Email  
-mailto:jpcicolo@gmail.com
+<a href="mailto:jpcicolo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 <br><br>
 
