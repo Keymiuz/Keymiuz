@@ -24,93 +24,138 @@
 
 <div align="center">
 
-```yaml
-name: João Pedro Silva Cabral Cicolo
-location: São Paulo, Brazil
-current_focus: Java Spring Ecosystem
-learning:
-  - Spring Boot
-  - Microservices
-  - Cloud Architecture
-interests:
-  - AI/ML
-  - Full Stack Development
-  - Data Science
-philosophy: "Code with passion, learn with purpose"
-</div>
-````
+    name: João Pedro Silva Cabral Cicolo
+    location: São Paulo, Brazil
+    current_focus: Java Spring Ecosystem
+    learning:
+      - Spring Boot
+      - Microservices
+      - Cloud Architecture
+    interests:
+      - AI/ML
+      - Full Stack Development
+      - Data Science
+    philosophy: "Code with passion, learn with purpose"
 
-🛠️ Tech Arsenal
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-Programming Languages
+
+**Programming Languages**  
 Java · Python · JavaScript · TypeScript · C · C++ · C# · HTML · CSS · PowerShell
 
-Frameworks & Libraries
-Frontend
+**Frameworks & Libraries**  
+**Frontend**  
 React · Angular · Next.js · Vite · Bootstrap
 
-Backend
+**Backend**  
 Spring Boot · Node.js · Express · Django · Hibernate
 
-Databases
+**Databases**  
 PostgreSQL · MySQL · MongoDB · Oracle · SQLite · Supabase
 
-Cloud & DevOps
+**Cloud & DevOps**  
 Git · GitHub · Vercel · Jira · Hostinger
 
-AI & Data
+**AI & Data**  
 Pandas · NumPy · PyTorch · TensorFlow
 
 </div>
-🚀 Featured Projects
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-📄 Rastreador de Nota Fiscal (NF-e)
+
+### 📄 Rastreador de Nota Fiscal (NF-e)
+
 Sistema para rastreamento e organização de notas fiscais, com foco em automação, clareza de dados e backend robusto.
 
-Tech Stack
+**Tech Stack**  
 Java · Spring Boot · PostgreSQL
 
-🔗 Repository
+🔗 **Repository**  
 https://github.com/Keymiuz/Rastreador-de-NF
 
-🎙️ WordPressa — Multimedia Transcription
+---
+
+### 🎙️ WordPressa — Multimedia Transcription
+
 Aplicação de transcrição automática de áudio, vídeo e imagens usando Inteligência Artificial.
 
-Tech Stack
+**Tech Stack**  
 React · Next.js · TypeScript · Tailwind · AssemblyAI · Gemini API
 
-🔗 Repository
+🔗 **Repository**  
 https://github.com/Keymiuz/wordpressa
 
 </div>
-🏆 Achievements & Certifications
+
+---
+
+## 🏆 Achievements & Certifications
+
 <div align="center">
-🎓 Oracle Certified Professional
+
+🎓 **Oracle Certified Professional**  
 🔗 https://catalog-education.oracle.com/ords/certview/sharebadge?id=593A1794D326481A63254C5BA6D8B6A6227DF1C63A9DD5BD7BBB15B6F2C9EC33#
 
 <br>
-📘 Mastering Data Structures & Algorithms using C and C++
+
+📘 **Mastering Data Structures & Algorithms using C and C++**  
 🔗 https://udemy-certificate.s3.amazonaws.com/pdf/UC-838019c4-2833-4b58-b4a9-d6931c602b92.pdf
 
 </div>
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keymiuz&theme=radical" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keymiuz&theme=github-dark&area=true" /> </div>
-🌐 Connect With Me
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-🔗 LinkedIn
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keymiuz&theme=radical" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keymiuz&theme=github-dark&area=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+🔗 LinkedIn  
 https://www.linkedin.com/in/keymius/
 
-🔗 LeetCode
+🔗 LeetCode  
 https://leetcode.com/u/Keymius/
 
-📧 Email
+📧 Email  
 mailto:jpcicolo@gmail.com
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Keymiuz/Keymiuz/output/snake.svg" /> </div>
-<div align="center">
-"Code is like humor. When you have to explain it, it's bad."
-— Cory House
+<img src="https://raw.githubusercontent.com/Keymiuz/Keymiuz/output/snake.svg" />
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" /> </div> ```
+</div>
+
+---
+
+<div align="center">
+
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> — Cory House
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" />
+
+</div>
