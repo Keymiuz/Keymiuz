@@ -1,22 +1,35 @@
 = João Pedro Cicolo
-:toc: macro
-:toclevels: 2
 :icons: font
 :source-highlighter: rouge
-:imagesdir: .
 :sectanchors:
 
-image::https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=300&section=header&text=João%20Pedro%20Cicolo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Spring%20Enthusiast%20%7C%20Brazil%20🇧🇷&descAlignY=55&descAlign=50[]
+++++
+<div align="center">
 
-image::https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+in+Training;Java+Spring+%7C+React+%7C+Python;Passionate+about+Clean+Code;Always+Learning+New+Technologies[]
+<img src="https://tenor.com/pt-BR/view/league-of-legends-aatrox-darkin-the-darkin-blade-the-world-ender-gif-16256284.gif" width="420"/>
 
-image:https://badges.frapsoft.com/os/mit/mit.svg?v=103[MIT]
-image:https://badges.frapsoft.com/os/v1/open-source.svg?v=103[Open Source]
-image:https://visitor-badge.laobi.icu/badge?page_id=Keymiuz.Keymiuz[Visitors]
+<br/><br/>
 
-toc::[]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=280&section=header&text=João%20Pedro%20Cicolo&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Spring%20Enthusiast%20%7C%20Brazil%20🇧🇷&descAlignY=55"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+%7C+React+%7C+Python;Clean+Code+Above+All;Always+Learning"/>
+
+<br/><br/>
+
+<img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103"/>
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Keymiuz.Keymiuz"/>
+
+</div>
+++++
 
 == About Me
+
+++++
+<div align="center">
+++++
 
 [source,yaml]
 ----
@@ -34,116 +47,127 @@ interests:
 philosophy: "Code with passion, learn with purpose"
 ----
 
+++++
+</div>
+++++
+
 == Tech Arsenal
 
-=== Programming Languages
+++++
+<div align="center">
+++++
 
-* Java
-* Python
-* JavaScript
-* TypeScript
-* C
-* C++
-* C#
-* HTML5
-* CSS3
-* PowerShell
+=== Programming Languages
+Java · Python · JavaScript · TypeScript · C · C++ · C# · HTML · CSS · PowerShell
 
 === Frameworks & Libraries
+*Frontend*  
+React · Angular · Next.js · Vite · Bootstrap  
 
-*Frontend*
-* React
-* React Native
-* Angular
-* Next.js
-* Bootstrap
-* Vite
+*Backend*  
+Spring Boot · Node.js · Express · Django · Hibernate
 
-*Backend*
-* Node.js
-* Express.js
-* Django
-* Hibernate
-* Bun
-
-=== Databases & ORMs
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Oracle
-* SQLite
-* Supabase
+=== Databases
+PostgreSQL · MySQL · MongoDB · Oracle · SQLite · Supabase
 
 === Cloud & DevOps
+Git · GitHub · Vercel · Jira · Hostinger
 
-* Git
-* GitHub
-* Vercel
-* Hostinger
-* Jira
+=== AI & Data
+Pandas · NumPy · PyTorch · TensorFlow
 
-=== AI & Data Science
-
-* Pandas
-* NumPy
-* PyTorch
-* TensorFlow
+++++
+</div>
+++++
 
 == Featured Projects
 
-=== Fraud Detection with Invoice Tracking
+++++
+<div align="center">
+++++
 
-Academic project comparing unsupervised learning methods for fraud detection, achieving *45% higher accuracy* in anomaly detection.
+=== Rastreador de Nota Fiscal (NF-e)
+
+Sistema para rastreamento e organização de notas fiscais, focado em automação e clareza de dados.
 
 *Tech Stack:*  
-Python, Pandas, NumPy, Isolation Forest, Clustering, Decision Trees  
+Java · Spring Boot · PostgreSQL  
 
-*Period:* Jan 2024 – Mar 2026  
+*Repository:*  
+https://github.com/Keymiuz/Rastreador-de-NF
 
-Repository: https://github.com/Keymiuz
+---
 
 === WordPressa – Multimedia Transcription
 
-AI-powered multimedia transcription platform using AssemblyAI and Gemini API.
+Aplicação de transcrição automática de áudio, vídeo e imagens usando IA.
 
 *Tech Stack:*  
-React, Next.js, TypeScript, Tailwind CSS, AssemblyAI, Gemini API  
+React · Next.js · TypeScript · Tailwind · AssemblyAI · Gemini API  
 
-*Status:* Active Development  
+*Repository:*  
+https://github.com/Keymiuz/wordpressa
 
-Repository: https://github.com/Keymiuz/wordpressa
+++++
+</div>
+++++
 
 == Achievements & Certifications
 
-* Oracle Certified Professional (2024)
-* Java Spring Complete Course (2024)
+++++
+<div align="center">
+++++
 
-== GitHub Analytics
+• Oracle Certified Professional (2024)  
+• Java Spring Complete Course (2024)
 
-image::https://github-readme-stats.vercel.app/api/top-langs/?username=Keymiuz&layout=compact&langs_count=8&theme=radical&border_color=DC143C&title_color=DC143C[]
+++++
+</div>
+++++
 
-image::https://github-readme-streak-stats.herokuapp.com/?user=Keymiuz&theme=radical&border=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C[]
+== GitHub Activity
 
-image::https://github-readme-activity-graph.vercel.app/graph?username=Keymiuz&theme=github-dark&bg_color=0d1117&color=DC143C&line=DC143C&point=FFFFFF&area=true[]
+++++
+<div align="center">
 
-== Currently Vibing To
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keymiuz&theme=radical"/>
 
-image::https://spotify-recently-played-readme.vercel.app/api?user=12155171772&count=5&unique=true[]
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keymiuz&theme=github-dark&area=true"/>
+
+</div>
+++++
 
 == Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/keymius/
-* LeetCode: https://leetcode.com/u/Keymius/
-* Email: mailto:jpcicolo@gmail.com[]
+++++
+<div align="center">
 
-image::https://raw.githubusercontent.com/Keymiuz/Keymiuz/output/snake.svg[]
+LinkedIn: https://www.linkedin.com/in/keymius/  
+LeetCode: https://leetcode.com/u/Keymius/  
+Email: mailto:jpcicolo@gmail.com  
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Keymiuz/Keymiuz/output/snake.svg"/>
+
+</div>
+++++
 
 == Quote
 
-____
-Code is like humor. When you have to explain it, it's bad.
-— Cory House
-____
+++++
+<div align="center">
+<blockquote>
+Code is like humor. When you have to explain it, it's bad.  
+<br/>— Cory House
+</blockquote>
+</div>
+++++
 
-image::https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer[]
+++++
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer"/>
+</div>
+++++
