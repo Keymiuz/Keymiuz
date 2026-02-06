@@ -139,7 +139,7 @@ Academic project comparing unsupervised learning methods for fraud detection, ac
 <td width="50%">
 
 ### 🎙️ WordPressa - Multimedia Transcription
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keymiuz&repo=wordpressa&theme=radical&border_color=DC143C&title_color=DC143C&icon_color=DC143C)]([https://github.com/Keymiuz](https://github.com/Keymiuz/WordPressa))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keymiuz&repo=wordpressa&theme=radical&border_color=DC143C&title_color=DC143C&icon_color=DC143C)](https://github.com/Keymiuz)
 
 **AI-Powered Transcription Application**  
 Multimedia application enabling automatic transcription of images, videos, and audio through AssemblyAI and Gemini API integration.
