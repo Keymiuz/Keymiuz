@@ -26,20 +26,20 @@
 <div align="center">
 
 **Programming Languages**  
-Java · Python · JavaScript · TypeScript · C · C++ · C# · HTML · CSS · PowerShell
+Java · Python · JS/TS · C · C++ · C# · HTML · CSS · PowerShell
 
 **Frameworks & Libraries**  
 **Frontend**  
 React · Angular · Next.js · Vite · Bootstrap
 
 **Backend**  
-Spring Boot · Node.js · Express · Django · Hibernate
+Spring Boot · Node.js · Express · Next
 
 **Databases**  
 PostgreSQL · MySQL · MongoDB · Oracle · SQLite · Supabase
 
 **Cloud & DevOps**  
-Git · GitHub · Vercel · Jira · Hostinger
+Git · GitHub · Vercel 
 
 **AI & Data**  
 Pandas · NumPy · PyTorch · TensorFlow
