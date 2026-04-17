@@ -113,11 +113,6 @@ Aplicação de transcrição automática de áudio, vídeo e imagens usando Inte
 </a>
 
 <br><br>
-
-<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-838019c4-2833-4b58-b4a9-d6931c602b92.pdf">
-  <img src="https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge&logo=udemy" />
-</a>
-
 </div>
 
 ---
