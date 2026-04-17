@@ -20,26 +20,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-    name: João Pedro Silva Cabral Cicolo
-    location: São Paulo, Brazil
-    current_focus: Java Spring Ecosystem
-    learning:
-      - Spring Boot
-      - Microservices
-      - Cloud Architecture
-    interests:
-      - AI/ML
-      - Full Stack Development
-      - Data Science
-    philosophy: "Code with passion, learn with purpose"
-
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
